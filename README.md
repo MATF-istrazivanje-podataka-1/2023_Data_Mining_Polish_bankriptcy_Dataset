@@ -6,7 +6,7 @@ Asistent: Marija Erić
 
 Profesor: dr. Nenad Mitić
 
-- Dependencies
+- Biblioteke
     - `pip install numpy `
     - `pip install panda`
     - `pip install seaborn`
